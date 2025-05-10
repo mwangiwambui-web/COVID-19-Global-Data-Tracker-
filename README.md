@@ -56,6 +56,6 @@ This project provided hands-on experience with real-world data analysis using Py
 
 ---
 
-**Author**: *Your Name*  
+**Author**: linet wambui  
 **Dataset Source**: [Our World in Data](https://ourworldindata.org/covid-cases)
 
